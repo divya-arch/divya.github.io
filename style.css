@@ -1,0 +1,40 @@
+body {
+	background-image: url(home2.jpg);
+}
+header.home {
+	margin-top: 200px;
+	margin-bottom: 30px;
+	font-size: 2em;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: 014953
+	size: 3em;
+	font-weight: 1000;
+	font-family: sans-serif;
+}
+hr {
+	size: 30px;
+	color: 0D083B
+}
+.btn {
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+	font-family: sans-serif;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+.btn-primary {
+	background-color: black;
+	border-color: white
+}
+
+.btn-primary:hover {
+	background-color: orange;
+	border-color: black
+}
